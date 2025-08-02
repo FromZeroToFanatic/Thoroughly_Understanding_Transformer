@@ -1,4 +1,4 @@
-## 🔍 什么是Transformer？
+##  什么是Transformer？
 
 Transformer 是由 Vaswani 等人在 2017 年提出的模型架构，用于处理序列到序列的任务（如机器翻译）。它使用 **自注意力机制（Self-Attention）** 代替传统的 RNN/CNN 架构，是 GPT 和 BERT 等预训练语言模型的基础。
 
@@ -70,7 +70,7 @@ Transformer 是由 Vaswani 等人在 2017 年提出的模型架构，用于处�
   - 对于分类任务，输出通常通过 **Softmax** 函数进行归一化，得到一个概率分布，这样模型就可以输出最有可能的类别。
 
 ---
-## 📚 参考资料
+##  参考资料
 
 - **Transformer、GPT、BERT，预训练语言模型的前世今生**
 - **基于transformers的自然语言处理(NLP)入门**
